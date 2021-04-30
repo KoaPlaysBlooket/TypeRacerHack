@@ -1,2 +1,0 @@
-# TypeRacerHack
-Typeracer hacks
