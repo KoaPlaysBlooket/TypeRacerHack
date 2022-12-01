@@ -1,7 +1,4 @@
-DO NOT COPY THIS
-yes you can edit the speed at "3)||3)/3 | 3" edit numbers only  
-COPY THIS: 
-function triggerKeyboardEvent(el, keyCode, type)
+ function triggerKeyboardEvent(el, keyCode, type)
 {
     var eventObj = document.createEventObject ?
         document.createEventObject() : document.createEvent("Events");
